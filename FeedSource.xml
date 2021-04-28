@@ -1,8 +1,8 @@
 <ns1:alerts xmlns:ns1="http://gov.fema.ipaws.services/feed">
 <!-- Count Of Alert Nodes : 29 -->
 <alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
-<identifier>AutomationTest420</identifier>
-<sender>Sender12345</sender>
+<identifier>AutomationTest439</identifier>
+<sender>Sender12346</sender>
 <sent>2021-04-28T00:00:00-06:00</sent>
 <status>System</status>
 <msgType>Update</msgType>
@@ -60,9 +60,6 @@
 <valueName>UGC</valueName>
 <value>WIZ017</value>
 </geocode>
-</area>
-<area>
-<areaDesc>Circle area</areaDesc>
 </area>
 </info>
 </alert>
