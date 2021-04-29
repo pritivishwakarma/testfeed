@@ -3,9 +3,9 @@
 	xmlns:ns1="http://gov.fema.ipaws.services/feed">
 	<alert
 		xmlns="urn:oasis:names:tc:emergency:cap:1.2">
-		<identifier>b422faa9-e1a0-4d66-af84-abb92d84182d</identifier>
-		<sender>w-nws.webmaster@noaa.gov</sender>
-		<sent>2021-04-28T02:57:00-06:00</sent>
+		<identifier>e5def9e2-d671-449c-8bd3-fa275302775c</identifier>
+		<sender>AutomationTest</sender>
+		<sent>2021-04-28T00:57:00-06:00</sent>
 		<status>Actual</status>
 		<msgType>Update</msgType>
 		<scope>Public</scope>
@@ -28,9 +28,9 @@
 				<valueName>NationalWeatherService</valueName>
 				<value>WWY</value>
 			</eventCode>
-			<effective>2021-04-28T02:57:00-06:00</effective>
-			<onset>2021-04-28T02:57:00-06:00</onset>
-			<expires>2021-05-01T09:00:00-06:00</expires>
+			<effective>2021-04-28T00:57:00-06:00</effective>
+			<onset>2021-04-28T00:57:00-06:00</onset>
+			<expires>2021-05-02T09:00:00-06:00</expires>
 			<senderName>NWS La Crosse WI</senderName>
 			<headline>Winter Weather Advisory issued January 17 at 2:57AM CST until January 17 at 9:00AM CST by NWS La Crosse WI</headline>
 			<description>...Slippery Travel Conditions into this Morning from Icy and Snow Covered Roads...  .Lingering freezing drizzle over central and southwest Wisconsin will transition to light snow early this morning. Some untreated icy roads may accumulate a layer of light snow on them, leading to slippery travel conditions even after drizzle has stopped. If you must travel, take it slow and be prepared for slippery road conditions.  * WHAT...Freezing drizzle transitioning to light snow. Additional snow accumulations of less than a half inch and ice accumulations of a light glaze.  * WHERE...Portions of central, southwest and west central Wisconsin, northeast Iowa and southeast Minnesota.  * WHEN...Until 9 AM CST this morning.  * IMPACTS...Plan on slippery road conditions.</description>
@@ -62,7 +62,7 @@
 			</parameter>
 			<parameter>
 				<valueName>eventEndingTime</valueName>
-				<value>2021-05-01T09:00:00-06:00</value>
+				<value>2021-05-02T09:00:00-06:00</value>
 			</parameter>
 			<area>
 				<areaDesc>Winona; Richland; Adams; Trempealeau; Jackson; Grant; Allamakee; Fayette; Houston; La Crosse; Fillmore; Winneshiek; Wabasha; Monroe; Clayton; Vernon; Juneau; Buffalo; Crawford</areaDesc>
